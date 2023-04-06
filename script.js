@@ -48,7 +48,7 @@ commandments = [
   "Thou shalt not appropriate the cultural expressions of others, for it is disrespectful and perpetuates harmful stereotypes.", 
   "Thou shalt respect and honor the bodily autonomy of all individuals, for it is their right to make decisions about their own bodies.",  
   "Thou shalt recognize and actively work to dismantle systems of oppression, for they harm individuals and society as a whole.",  
-  "Thou shalt listen and believe when someone shares their experiences of discrimination or harassment, for it takes courage to speak out.", 
+  "Thou shalt listen and believe when someone shares their experiences, for it takes courage to speak out.", 
   "Thou shalt recognize that allyship is an ongoing process, and commit to continual learning and growth.", 
   "Thou shalt actively work to create inclusive spaces where all individuals feel welcome and valued.",
   "Thou shalt prioritize self-care and mental health, for it is essential to be able to show up fully for oneself and others.",
